@@ -1,16 +1,16 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/l0MYuxp3Rjlrka8mY/giphy.gif" width="1000"/>
+</div>
 
-<!--
-**Zakaria2ee/Zakaria2ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h1 align="center"> :man_technologist: About Me </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> Hello there, I'm a Cyber security student, too motivated to learn new things and sharping my skills, I have a keen interest in digital security and cryptography.</p>
+<p align="center"> to reach me :point_down:</p>
+
+<div align="center" id="badges">
+  <a href="https://www.linkedin.com/in/zakaria-boudaira-a87154252/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
