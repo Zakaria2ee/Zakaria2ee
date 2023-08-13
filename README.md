@@ -6,7 +6,7 @@
 
 <h1 align="center"> :man_technologist: About Me </h1>
 
-<p align="center"> Hello there, I'm a Cyber security student, too motivated to learn new things and sharping my skills, I have a keen interest in digital security and cryptography.</p>
+<p align="center"> Hello there, I'm a Cyber security student, too motivated to learn new things and sharping my skills .</p>
 <p align="center"> to reach me :point_down:</p>
 
 <div align="center" id="badges">
